@@ -8,5 +8,7 @@ run ddos.exe while being ingame it will only requrie you to click [ENTER] then i
 
 no i dont have access to checking ur token
 
+proof
+-------------------|
 proof of opening file -> https://gyazo.com/5ab0dbb7af45256e4dab822fca0b9623
 proof of lag -> https://gyazo.com/ca2c728e294c8b3b38373c69c74e9331
